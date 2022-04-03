@@ -10,6 +10,7 @@ This project will inform the marketing department on the most relevant marketing
 ## Part 1: Dimensionality Reduction
 
 This section of the project entails reducing the dataset to a low dimensional dataset using the t-SNE algorithm or PCA. Analysis will be performed and insights from your analysis provided.
+https://rpubs.com/MuthoniOprah/Dimensionality_Reduction_on_Carrefour_data
 
 ## Part 2: Feature Selection
 
