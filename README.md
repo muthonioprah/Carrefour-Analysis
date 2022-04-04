@@ -27,6 +27,8 @@ https://rpubs.com/MuthoniOprah/Associative_analysis
 
 Checking for any anomalies in the given sales dataset. The objective of this task being fraud detection.
 
+https://rpubs.com/MuthoniOprah/Anomaly-detection
+
 
 ## Tools Used
 R and R studio
